@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+build/
+**/build/
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.apk
+BiekApiClient.java
+SoftwareHubClient.java
+DownloadWorker.java
+ChapterDownloads.java
+network_security_config.xml
